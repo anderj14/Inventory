@@ -19,7 +19,7 @@ Este proyecto es una aplicación de consola en C# para gestionar un inventario d
 
 1. Clona este repositorio o descarga los archivos.
 ```sh
- git clone 
+ git clone https://github.com/anderj14/Inventory.git
 ```
 2. Abre el proyecto en Visual Studio o Visual Studio Code.
 3. Asegúrate de tener instalada la biblioteca **Newtonsoft.Json**:
